@@ -3,7 +3,7 @@ import os
 import time
 import pandas as pd
 from supabase import create_client, Client
-from dotenv import load_dotenv
+from dotenv import load_dotenva
 
 #Initialize the supabase
 load_dotenv()
